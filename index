@@ -433,11 +433,11 @@
 //  ⚙️  EMAILJS CONFIG — sostituisci con le tue credenziali
 //      https://dashboard.emailjs.com
 // ─────────────────────────────────────────────────────────────
-const EMAILJS_PUBLIC_KEY        = "TUO_PUBLIC_KEY";            // Account → API Keys
-const EMAILJS_SERVICE_ID        = "TUO_SERVICE_ID";            // Email Services
-const EMAILJS_TEMPLATE_DENTIST  = "TUO_TEMPLATE_DENTISTA";    // template notifica a te
-const EMAILJS_TEMPLATE_PATIENT  = "TUO_TEMPLATE_PAZIENTE";    // template conferma al paziente
-const DENTIST_EMAIL             = "tua@email.it";              // ← la tua mail di ricezione
+const EMAILJS_PUBLIC_KEY        = "CsEJxVd_LoXMlooH4";
+const EMAILJS_SERVICE_ID        = "service_8ilctq2";
+const EMAILJS_TEMPLATE_DENTIST  = "template_p47u7dg";
+const EMAILJS_TEMPLATE_PATIENT  = "template_u8bgm17";
+const DENTIST_EMAIL             = "davide.frigoli@truenumbers.it";
 
 emailjs.init(EMAILJS_PUBLIC_KEY);
 
